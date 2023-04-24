@@ -1,0 +1,39 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.item {
+  width: 150px;
+  height: 150px;
+  border-bottom: 2px solid black;
+  margin: 0 auto;
+}
+
+.item-1 {
+  background: green;
+}
+.item-2 {
+  background: yellow;
+}
+.item-3 {
+  background: orange;
+}
+.item-4 {
+  background: blue;
+}
+.item-5 {
+  background: pink;
+}
+.item-6 {
+  background: gray;
+}
+.item-7 {
+  background: white;
+}
+.item-8 {
+  background: red;
+}
+.item-9 {
+  background: indianred;
+}
